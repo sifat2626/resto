@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-container {
+  @apply px-[9.875%] xl:px-[15.625%];
+}
