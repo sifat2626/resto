@@ -2,7 +2,7 @@ import { Outlet } from "react-router-dom"
 
 function Root() {
   return (
-    <div>
+    <div className="font-robo">
       <Outlet />
       {/* footer */}
     </div>

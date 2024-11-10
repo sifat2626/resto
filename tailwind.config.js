@@ -19,6 +19,12 @@ export default {
         quarter: "25%",
       },
     },
+    fontFamily: {
+      robo: '"Roboto", sans-serif',
+      rale: '"Raleway", sans-serif',
+      bebas: '"Bebas Neue", sans-serif',
+      pop: '"Poppins", sans-serif',
+    },
   },
   plugins: [require("daisyui")],
 }
