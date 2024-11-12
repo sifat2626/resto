@@ -3,7 +3,7 @@ import Hero from "./Hero"
 
 function Home() {
   return (
-    <div className="relative h-screen">
+    <div className="relative lg:h-screen">
       {/* Background Image Layer */}
       <div className="absolute inset-0 bg-hero-bg bg-small bg-center -z-10"></div>
 
