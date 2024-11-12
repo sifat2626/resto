@@ -27,7 +27,7 @@ function Hero() {
             className="object-cover w-full xl:h-[650px]  max-h-[650px] scale-x-[-1]"
           />
           <div className="absolute p-2 flex bg-[#FEBF00] text-[#0A1425] flex-col justify-center items-center rounded-full lg:right-0 lg:bottom-0 right-4 bottom-4 lg:translate-x-1/2 lg:translate-y-1/2">
-            <div className="flex flex-col lg:text-4xl text-xl border border-dashed border-[#BD1F17] rounded-full lg:size-32 size-20 items-center justify-center p-2">
+            <div className="flex flex-col lg:text-4xl md:text-xl text-base leading-5 border border-dashed border-[#BD1F17] rounded-full lg:size-32 size-16 items-center justify-center p-2">
               <p className="">Today</p>
               <p className="">offer</p>
             </div>
