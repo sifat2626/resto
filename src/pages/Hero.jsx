@@ -4,7 +4,7 @@ import vector from "../assets/images/Vector.svg"
 function Hero() {
   return (
     <div className="flex-1 flex flex-col justify-center">
-      <div className="flex py-4 relative flex-col md:flex-row ">
+      <div className="flex pb-4 relative flex-col md:flex-row ">
         {/* Text Section */}
         <div className="flex-1 flex flex-col justify-center items-start">
           <h2 className="font-bebas font-bold xl:text-[120px] lg:text-[60px] text-5xl lg:tracking-wider xl:tracking-[0.04em] xl:-mr-[15rem] leading-none text-white bg-gradient-to-r from-[#BD1F1700] to-[#BD1F1770] relative  z-10 py-3 pr-2">
