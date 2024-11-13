@@ -13,6 +13,7 @@ export default {
       },
       backgroundImage: {
         "hero-bg": "url('assets/images/resto-bg.png')",
+        "book-bg": "url('assets/images/book.jpeg')",
       },
       backgroundSize: {
         small: "8%",
