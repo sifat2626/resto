@@ -62,7 +62,8 @@ export default function PopularSlider({ prevRef, nextRef }) {
       breakpoints={{
         0: { slidesPerView: 1 }, // 1 slide on mobile
         768: { slidesPerView: 2 }, // 2 slides on medium screens
-        1024: { slidesPerView: 4 }, // 4 slides on large screens
+        1024: { slidesPerView: 3 }, // 4 slides on large screens
+        1440: { slidesPerView: 4 }, // 4 slides on large screens
       }}
       className="mySwiper"
     >
